@@ -1,0 +1,64 @@
+
+
+h4 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#headshot {
+    border: 2px solid #555;
+    border-radius: 50%;
+    height: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.company {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: '- ';
+}
+
+div {
+    width: 80%;
+    margin: auto;
+}
+
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li.nav {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: rgb(36, 73, 97);
+  }
+
+  
+
