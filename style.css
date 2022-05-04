@@ -1,0 +1,20 @@
+
+
+h4 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#headshot {
+    border: 5px solid #555;
+    height: 300px
+}
+
+.company {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: '- ';
+}
+
