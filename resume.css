@@ -35,7 +35,7 @@ div.resume {
     margin: auto;
     width: 80%;
     text-align: center;
-    font-size: larger;
+    font-size: x-large;
 }
 
 
@@ -241,6 +241,7 @@ ul.nav {
       #child {
           margin-left: 15px;
           font-size: x-large;
+          text-align: center;
       }
       #pic {
         width: 400px;
